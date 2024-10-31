@@ -1,0 +1,21 @@
+.form-input.generated {
+	width:100%;
+}
+.form-input.generated thead th[colspan]{
+	text-align:center;
+	font-weight:bold;
+	font-size:1.1em;
+	font-style:inherit;
+	border-top:1px solid #000;
+	padding:0.5em;
+}
+.form-input.generated tbody td:first-child, .form-input.generated th:first-child{
+	text-align:right;
+	font-style:italic;
+}
+.form-input.generated td, .form-input.generated th{
+	text-align:left;
+}
+.form-input.generated tfoot td{
+	text-align:center;
+}

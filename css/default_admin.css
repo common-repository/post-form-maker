@@ -1,0 +1,19 @@
+h3.header-results{
+	border-bottom:1px solid #000;
+	font-size:1.4em;
+	font-weight:bold;
+}
+table.form-results{
+	width:100%;
+}
+table.form-results thead th:first-child{
+	text-align:right;
+}
+table.form-results td:first-child{
+	text-align:right;
+	font-style:italic;
+}
+table.form-results tbody td, table.form-results thead th{
+	text-align:left;
+	padding:0.5em;
+}

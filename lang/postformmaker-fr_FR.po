@@ -1,0 +1,139 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2009 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fred <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-27 14:40+0200\n"
+"PO-Revision-Date: 2009-08-27 14:41+0200\n"
+"Last-Translator: Fredpointzero <fredpointzero@gmail.com>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CP1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: admin_addedit.php:17 admin_menu.php:2 admin_options.php:9
+#: admin_results.php:2 postFormMaker.php:185 postFormMaker.php:186
+#: postFormMaker.php:187 postFormMaker.php:188
+msgid "Post Form Maker"
+msgstr "Createur de formulaire"
+
+#: admin_addedit.php:18
+msgid "Make a form"
+msgstr "Creer un formulaire"
+
+#: admin_addedit.php:23
+msgid "Title"
+msgstr "Titre"
+
+#: admin_addedit.php:27
+msgid "Limitation"
+msgstr "Limitation"
+
+#: admin_addedit.php:38 admin_menu.php:6 admin_results.php:10
+msgid "Post"
+msgstr "Article"
+
+#: admin_addedit.php:45
+msgid "Label"
+msgstr "Titre"
+
+#: admin_addedit.php:46
+msgid "Type"
+msgstr "Type"
+
+#: admin_addedit.php:47
+msgid "Values"
+msgstr "Valeurs"
+
+#: admin_addedit.php:55 admin_options.php:23
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: admin_addedit.php:63
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin_addedit.php:64
+msgid "New Form"
+msgstr "Nouveau formulaire"
+
+#: admin_menu.php:7
+msgid "Date"
+msgstr "Date"
+
+#: admin_menu.php:8
+msgid "Actions"
+msgstr "Actions"
+
+#: admin_menu.php:19
+msgid "Edit"
+msgstr "Editer"
+
+#: admin_menu.php:20
+msgid "See Results"
+msgstr "Voir les resultats"
+
+#: admin_options.php:15
+msgid "Send Mail On Submit"
+msgstr "Envoyer un mail a chaque reponse"
+
+#: admin_options.php:17
+msgid "Yes"
+msgstr "Oui"
+
+#: admin_options.php:18
+msgid "No"
+msgstr "Non"
+
+#: admin_results.php:6
+msgid "No form has been selected, please select one to see the results"
+msgstr "Aucun formulaire n'a ete choisi, veuillez en choisir un pour continuer"
+
+#: admin_results.php:7
+msgid "Go To Form List"
+msgstr "Aller a la liste des formulaires"
+
+#: admin_results.php:16
+msgid "Name"
+msgstr "Nom"
+
+#: admin_results.php:17
+msgid "Total"
+msgstr "Total"
+
+#: admin_results.php:18
+msgid "Percent"
+msgstr "Pourcentage"
+
+#: admin_results.php:35
+msgid "Total votes"
+msgstr "Total des votes"
+
+#: postFormMaker.php:186
+msgid "Add/Edit Forms"
+msgstr "Ajouter/Editer un formulaire"
+
+#: postFormMaker.php:187
+msgid "Results"
+msgstr "Resultats"
+
+#: postFormMaker.php:188
+msgid "Options"
+msgstr "Options"
+
+#: postFormMaker.php:428
+msgid "You have already submitted your answers"
+msgstr "Vous avez deja envoye une reponse"
+
+#: postFormMaker.php:473
+msgid "Submit"
+msgstr "Envoyer"
+
+#: postFormMaker.php:550
+msgid "Some one has answered to your form"
+msgstr "Quelqu'un a repondu a votre formulaire"

@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-27 14:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin_addedit.php:17 admin_menu.php:2 admin_options.php:9
+#: admin_results.php:2 postFormMaker.php:185 postFormMaker.php:186
+#: postFormMaker.php:187 postFormMaker.php:188
+msgid "Post Form Maker"
+msgstr ""
+
+#: admin_addedit.php:18
+msgid "Make a form"
+msgstr ""
+
+#: admin_addedit.php:23
+msgid "Title"
+msgstr ""
+
+#: admin_addedit.php:27
+msgid "Limitation"
+msgstr ""
+
+#: admin_addedit.php:38 admin_menu.php:6 admin_results.php:10
+msgid "Post"
+msgstr ""
+
+#: admin_addedit.php:45
+msgid "Label"
+msgstr ""
+
+#: admin_addedit.php:46
+msgid "Type"
+msgstr ""
+
+#: admin_addedit.php:47
+msgid "Values"
+msgstr ""
+
+#: admin_addedit.php:55 admin_options.php:23
+msgid "Save Changes"
+msgstr ""
+
+#: admin_addedit.php:63
+msgid "Delete"
+msgstr ""
+
+#: admin_addedit.php:64
+msgid "New Form"
+msgstr ""
+
+#: admin_menu.php:7
+msgid "Date"
+msgstr ""
+
+#: admin_menu.php:8
+msgid "Actions"
+msgstr ""
+
+#: admin_menu.php:19
+msgid "Edit"
+msgstr ""
+
+#: admin_menu.php:20
+msgid "See Results"
+msgstr ""
+
+#: admin_options.php:15
+msgid "Send Mail On Submit"
+msgstr ""
+
+#: admin_options.php:17
+msgid "Yes"
+msgstr ""
+
+#: admin_options.php:18
+msgid "No"
+msgstr ""
+
+#: admin_results.php:6
+msgid "No form has been selected, please select one to see the results"
+msgstr ""
+
+#: admin_results.php:7
+msgid "Go To Form List"
+msgstr ""
+
+#: admin_results.php:16
+msgid "Name"
+msgstr ""
+
+#: admin_results.php:17
+msgid "Total"
+msgstr ""
+
+#: admin_results.php:18
+msgid "Percent"
+msgstr ""
+
+#: admin_results.php:35
+msgid "Total votes"
+msgstr ""
+
+#: postFormMaker.php:186
+msgid "Add/Edit Forms"
+msgstr ""
+
+#: postFormMaker.php:187
+msgid "Results"
+msgstr ""
+
+#: postFormMaker.php:188
+msgid "Options"
+msgstr ""
+
+#: postFormMaker.php:428
+msgid "You have already submitted your answers"
+msgstr ""
+
+#: postFormMaker.php:473
+msgid "Submit"
+msgstr ""
+
+#: postFormMaker.php:550
+msgid "Some one has answered to your form"
+msgstr ""
